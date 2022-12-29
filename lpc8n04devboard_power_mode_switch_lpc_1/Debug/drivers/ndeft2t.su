@@ -1,0 +1,27 @@
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\CMSIS/core_cm0plus.h:779:22:__NVIC_DisableIRQ	16	static
+../drivers/fsl_nfc.h:127:20:NFC_EnableInterrupts	16	static
+../drivers/fsl_nfc.h:139:20:NFC_DisableInterrupts	16	static
+../drivers/fsl_nfc.h:151:24:NFC_GetEnabledInterrupts	16	static
+../drivers/fsl_nfc.h:162:24:NFC_GetInterruptStatus	16	static
+../drivers/fsl_nfc.h:173:20:NFC_ClearInterruptStatus	16	static
+../drivers/fsl_nfc.h:239:20:NFC_SetTargetAddress	16	static
+../drivers/ndeft2t.c:190:6:NDEFT2T_Init	16	static
+../drivers/ndeft2t.c:211:6:NDEFT2T_DeInit	16	static
+../drivers/ndeft2t.c:219:6:NDEFT2T_CreateMessage	32	static
+../drivers/ndeft2t.c:262:6:NDEFT2T_CreateTextRecord	24	static
+../drivers/ndeft2t.c:269:6:NDEFT2T_CreateExtRecord	24	static
+../drivers/ndeft2t.c:276:6:NDEFT2T_CreateMimeRecord	24	static
+../drivers/ndeft2t.c:283:6:NDEFT2T_CreateUriRecord	24	static
+../drivers/ndeft2t.c:292:6:NDEFT2T_WriteRecordPayload	40	static
+../drivers/ndeft2t.c:327:6:NDEFT2T_CommitRecord	32	static
+../drivers/ndeft2t.c:360:6:NDEFT2T_CommitMessage	48	static
+../drivers/ndeft2t.c:505:6:NDEFT2T_GetMessage	48	static
+../drivers/ndeft2t.c:569:6:NDEFT2T_GetNextRecord	72	static
+../drivers/ndeft2t.c:778:7:NDEFT2T_GetRecordPayload	24	static
+../drivers/ndeft2t.c:823:13:CreateRecord	48	static
+../drivers/ndeft2t.c:917:17:DecodeNdefTlv	24	static
+../drivers/ndeft2t.c:966:13:ValidateNdefMsg	56	static
+../drivers/ndeft2t.c:997:13:EnableTermTlvDetection	24	static
+../drivers/ndeft2t.c:1007:13:DisableTermTlvDetection	24	static
+../drivers/ndeft2t.c:1040:6:NDEFT2T_IRQHandler	40	static

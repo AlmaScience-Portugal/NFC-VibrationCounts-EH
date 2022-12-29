@@ -1,0 +1,15 @@
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\CMSIS/core_cm0plus.h:779:22:__NVIC_DisableIRQ	16	static
+../drivers/fsl_common.h:484:28:EnableIRQ	16	static
+../drivers/fsl_common.h:522:28:DisableIRQ	16	static
+../drivers/fsl_power.h:405:20:POWER_GetPmuAccessReadyStat	8	static
+../drivers/fsl_power.c:26:10:POWER_ReadPmuReg	24	static
+../drivers/fsl_power.c:56:6:POWER_WritePmuReg	16	static
+../drivers/fsl_power.c:77:6:POWER_SetPmuRegBit	24	static
+../drivers/fsl_power.c:92:6:POWER_ClrPmuRegBit	24	static
+../drivers/fsl_power.c:106:6:POWER_SelectPowerSource	16	static
+../drivers/fsl_power.c:135:6:POWER_EnterSleep	24	static
+../drivers/fsl_power.c:164:6:POWER_EnterDeepSleep	24	static
+../drivers/fsl_power.c:194:6:POWER_EnterDeepPowerDownMode	24	static
+../drivers/fsl_power.c:219:6:EnableDeepSleepIRQ	24	static
+../drivers/fsl_power.c:229:6:DisableDeepSleepIRQ	24	static

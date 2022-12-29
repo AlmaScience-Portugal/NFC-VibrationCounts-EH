@@ -1,0 +1,6 @@
+../drivers/fsl_clock.h:219:20:CLOCK_UpdateWdtClk	8	static
+../drivers/fsl_clock.h:231:20:CLOCK_Select	16	static
+../drivers/fsl_clock.h:284:24:CLOCK_GetSysClkFreq	16	static
+../drivers/fsl_clock.c:44:6:CLOCK_WdtClkSelect	16	static
+../drivers/fsl_clock.c:61:10:CLOCK_GetClockOutClkFreq	16	static
+../drivers/fsl_clock.c:94:10:CLOCK_GetFreq	24	static

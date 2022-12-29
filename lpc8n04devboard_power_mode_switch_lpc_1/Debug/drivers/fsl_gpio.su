@@ -1,0 +1,5 @@
+../drivers/fsl_clock.h:199:20:CLOCK_EnableClock	16	static
+../drivers/fsl_gpio.h:131:20:GPIO_PinWrite	24	static
+../drivers/fsl_gpio.c:39:6:GPIO_PortInit	16	static
+../drivers/fsl_gpio.c:58:6:GPIO_PinSetInterruptConfig	32	static
+../drivers/fsl_gpio.c:118:6:GPIO_PinInit	24	static

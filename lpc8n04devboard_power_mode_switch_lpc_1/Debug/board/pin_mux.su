@@ -1,0 +1,5 @@
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_clock.h:199:20:CLOCK_EnableClock	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_gpio.h:211:20:GPIO_PortEnableInterrupts	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_iocon.h:255:22:IOCON_PinMuxSet	32	static
+../board/pin_mux.c:38:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:61:6:BOARD_InitPins	16	static

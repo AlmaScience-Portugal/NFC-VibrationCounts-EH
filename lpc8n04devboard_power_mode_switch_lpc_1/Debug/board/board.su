@@ -1,0 +1,4 @@
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_clock.h:199:20:CLOCK_EnableClock	16	static
+../board/board.c:141:6:BOARD_InitLedMatrix	8	static
+../board/board.c:161:6:BOARD_LedMatrixDelay	16	static
+../board/board.c:171:6:BOARD_LedMatrixShowNumber	40	static

@@ -1,0 +1,7 @@
+../drivers/fsl_nfc.h:139:20:NFC_DisableInterrupts	16	static
+../drivers/fsl_nfc.h:173:20:NFC_ClearInterruptStatus	16	static
+../drivers/fsl_nfc.c:45:6:NFC_Init	16	static
+../drivers/fsl_nfc.c:64:6:NFC_DeInit	16	static
+../drivers/fsl_nfc.c:81:14:NFC_GetLastAccessInfo	32	static
+../drivers/fsl_nfc.c:113:6:NFC_WritePage	32	static
+../drivers/fsl_nfc.c:136:6:NFC_ReadPage	32	static

@@ -1,0 +1,14 @@
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_clock.h:266:20:CLOCK_SetSysClkDiv	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_common.h:484:28:EnableIRQ	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_gpio.h:211:20:GPIO_PortEnableInterrupts	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_gpio.h:222:20:GPIO_PortDisableInterrupts	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_gpio.h:233:24:GPIO_PortGetInterruptsFlags	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_gpio.h:244:24:GPIO_PortReadMaskedInterrupts	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_gpio.h:255:20:GPIO_PortClearInterruptFlags	16	static
+../source/power_mode_switch_lpc.c:55:6:BOARD_IOCON_SetPin	16	static
+../source/power_mode_switch_lpc.c:60:6:BOARD_EnableDeepSleepIRQ	8	static
+../source/power_mode_switch_lpc.c:65:6:PIO0_IRQHandler	8	static
+../source/power_mode_switch_lpc.c:77:6:DEMO_PreEnterLowPower	8	static
+../source/power_mode_switch_lpc.c:85:6:NFC_IRQHandler	8	static
+../source/power_mode_switch_lpc.c:94:5:main	24	static

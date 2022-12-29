@@ -1,0 +1,14 @@
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_clock.h:189:20:CLOCKOUT_Enable	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_clock.h:219:20:CLOCK_UpdateWdtClk	8	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_clock.h:231:20:CLOCK_Select	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_clock.h:242:20:CLOCK_SetClkDivider	16	static
+C:\Users\Shubham DAS\Documents\MCUXpressoIDE_11.6.1_8255\lpc8n04devboard_power_mode_switch_lpc_1\drivers/fsl_clock.h:266:20:CLOCK_SetSysClkDiv	16	static
+../board/clock_config.c:43:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:70:6:BOARD_BootClockSFRO8MHz	8	static
+../board/clock_config.c:104:6:BOARD_BootClockSFRO4MHz	8	static
+../board/clock_config.c:138:6:BOARD_BootClockSFRO2MHz	8	static
+../board/clock_config.c:172:6:BOARD_BootClockSFRO1MHz	8	static
+../board/clock_config.c:205:6:BOARD_BootClockSFRO500kHz	8	static
+../board/clock_config.c:239:6:BOARD_BootClockSFRO250kHz	8	static
+../board/clock_config.c:273:6:BOARD_BootClockSFRO125kHz	8	static
+../board/clock_config.c:307:6:BOARD_BootClockSFRO62500Hz	8	static

@@ -1,0 +1,12 @@
+/*!
+@page middleware_log Middleware Change Log
+
+@section ndeft2t ndeft2t for MCUXpresso SDK.
+  The current version of ndeft2t is based on ndeft2t 1.0_rev0.
+ 
+  - 1.0_rev0
+    - New features:
+      - First release
+*/
+
+
